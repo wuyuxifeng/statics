@@ -4,7 +4,7 @@ var plusready = function () {
     v.setStyle({
         errorPage: '404.html'
     })
-    location.href = 'http://1.h5.smapps.cn/h5/';
+    location.href = 'http://2.h5.smapps.cn/h5/';
 }
 if (window.plus) {
     plusready();
